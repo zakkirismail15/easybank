@@ -11,7 +11,14 @@ export const H3 = styled.h3`
   font-size: 2.2rem;
   font-weight: 300;
 `;
-export const H4 = styled.h4``;
+export const H4 = styled.h4`
+  font-size: 1.8rem;
+  font-weight: 300;
+`;
+export const H5 = styled.h5`
+  font-size: 1.2rem;
+  font-weight: 300;
+`;
 
 export const Para = styled.p`
   font-size: 1.6rem;

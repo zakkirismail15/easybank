@@ -16,6 +16,7 @@ export const HeroImage = styled.div`
   background: url(${HeroBg});
   background-position: 15% 85%;
   background-size: 160%;
+  background-repeat: no-repeat;
   img {
     position: absolute;
     top: -14rem;

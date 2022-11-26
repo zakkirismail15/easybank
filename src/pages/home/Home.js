@@ -1,4 +1,5 @@
 import React from "react";
+import Articles from "../../components/articles/Articles";
 import Hero from "../../components/hero/Hero";
 import Info from "../../components/information/Info";
 import { HomeContainer } from "./Home.style";
@@ -9,6 +10,7 @@ function Home() {
       <HomeContainer>
         <Hero />
         <Info />
+        <Articles />
       </HomeContainer>
     </div>
   );
