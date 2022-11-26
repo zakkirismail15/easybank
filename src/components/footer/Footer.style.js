@@ -7,6 +7,10 @@ export const FooterWrapper = styled.footer`
     display: flex;
     justify-content: space-between;
     width: 100%;
+    @media (max-width: 480px) {
+      flex-direction: column;
+      align-items: center;
+    }
   }
 `;
 export const FooterLinks = styled.div`
@@ -31,6 +35,14 @@ export const FooterLinks = styled.div`
     flex-direction: column;
     a {
       margin-bottom: 1rem;
+    }
+  }
+  @media (max-width: 480px) {
+    flex-direction: column;
+    align-items: center;
+    .footer-top {
+      padding-bottom: 1.5rem;
+      text-align: center;
     }
   }
 `;

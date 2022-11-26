@@ -10,11 +10,23 @@ export const InfoHeader = styled.div`
     max-width: 70rem;
     padding: 1.5rem 0;
   }
+
+  @media (max-width: 480px) {
+    text-align: center;
+  }
 `;
 export const InfoGrid = styled.div`
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 1.5rem;
+
+  @media (max-width: 600px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  @media (max-width: 480px) {
+    grid-template-columns: repeat(1, 1fr);
+    text-align: center;
+  }
 `;
 export const InfoCard = styled.div`
   padding-top: 5rem;
