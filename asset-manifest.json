@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/easybank/static/js/main.c56800af.js",
+    "main.js": "/easybank/static/js/main.22d7b606.js",
     "static/media/image-currency.jpg": "/easybank/static/media/image-currency.1b385bf9f62bf25ef22d.jpg",
     "static/media/image-mockups.png": "/easybank/static/media/image-mockups.48d35b175fe3d36de4ee.png",
     "static/media/icon-api.svg": "/easybank/static/media/icon-api.74c8ad1751bbd1e7f545e458f9306885.svg",
@@ -16,9 +16,9 @@
     "static/media/icon-facebook.svg": "/easybank/static/media/icon-facebook.1e9b33385e6dfe7a61acbff13373209c.svg",
     "static/media/icon-close.svg": "/easybank/static/media/icon-close.c2e36e0469b3b1e6c27328356ce18aed.svg",
     "static/media/icon-hamburger.svg": "/easybank/static/media/icon-hamburger.b0d311feac968ee5feab7333de091d7f.svg",
-    "main.c56800af.js.map": "/easybank/static/js/main.c56800af.js.map"
+    "main.22d7b606.js.map": "/easybank/static/js/main.22d7b606.js.map"
   },
   "entrypoints": [
-    "static/js/main.c56800af.js"
+    "static/js/main.22d7b606.js"
   ]
 }
